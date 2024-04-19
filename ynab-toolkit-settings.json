@@ -409,7 +409,7 @@
   },
   {
     "key": "SwapClearedFlagged",
-    "value": true
+    "value": false
   },
   {
     "key": "TargetBalanceWarning",
